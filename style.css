@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ph {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 30%;
+}
+
+h3 {
+    text-decoration: underline;
+}
